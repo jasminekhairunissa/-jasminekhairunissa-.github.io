@@ -11,6 +11,7 @@ Mahasiswa Ilmu Komputer IPB
 ## Pendidikan
 ### Institut Pertanian Bogor — *S.Komp*
 Sep 2016 — sekarang
+
 ### SMA Negeri 39 Jakarta
 Jul 2013 — Jul 2016
 
