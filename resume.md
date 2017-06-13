@@ -13,13 +13,16 @@ Mahasiswa Ilmu Komputer IPB
 Sep 2016 — sekarang
 ### SMA Negeri 39 Jakarta
 Jul 2013 — Jul 2016
+
 ## Pelatihan
 + C
 + CSS
 + LaTeX
+
 ## Keahlian
 + Adobe Illustrator
 + Photoshop
 + HTML
+
 ## Hobi
 Membaca dan menggambar
